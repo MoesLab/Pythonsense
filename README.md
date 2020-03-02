@@ -12,7 +12,7 @@ Functions:
 2: Monitor IP, Subnet mask and default gateway on the display to test network gears
 3: Monitor and test peripheral devices for Bluetooth and Serial  
 4: Monitor and control of IoT devices locally or from cloud
-RGB light, Proxy sensors, Motion sensors, Temp/Humidity sensors, GPS and Relay sensors and so on
+//RGB light, Proxy sensors, Motion sensors, Temp/Humidity sensors, GPS and Relay sensors and so on
 
 Hardware:
 A Raspberry pi with linux kerenel (mine is a version of Debian)
@@ -22,7 +22,7 @@ A USB power pack (mine is home made)
 Software:
 Debian kernel for teh pi
 Python 3.7  with AppJar 0.98 package installed
-the actual program "pythonesense" and all .gif pictures are  included in this repository
+the actual program "pythonsense" and all .gif pictures are  included in this repository
 
 other HW:
 Keyboard and Gamepad to interface with pi and they are Bluetooth enabled.
