@@ -2,7 +2,17 @@
 A Python IoT toolbox for Linux OS using appJar 
 
 I always wanted to have a small computer to test and troubleshoot different tasks and problems I face everyday at work sites.
-I am a control system programmer and Audio / video integartor who usually deal with network issues and problem related to wire/wireless communication at clients site most of this problems can be discover and troubleshoot by a laptop computer, but in my case I want something smaller specially designed for my applications, so here is a pathway documantion and programs that make up this project.
+I am a control system programmer and Audio / video integartor who usually deal with network issues and problem related to 
+wire/wireless communication at clients site most of this problems can be discover and troubleshoot by a laptop computer, 
+but in my case I want something smaller specially designed for my applications, so here I will design my own tool and share 
+documented pathway and programs that make up this project.
+
+Functions:
+1: HDMI and 3.5 Audio provider for testing A/V equipment
+2: Monitor IP, Subnet mask and default gateway on the display to test network gears
+3: Monitor and test peripheral devices for Bluetooth and Serial  
+4: Monitor and control of IoT devices locally or from cloud
+RGB light, Proxy sensors, Motion sensors, Temp/Humidity sensors, GPS and Relay sensors and so on
 
 Hardware:
 A Raspberry pi with linux kerenel (mine is a version of Debian)
