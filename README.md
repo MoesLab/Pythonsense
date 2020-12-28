@@ -1,10 +1,10 @@
 # Pythonsense
 ## A Python IoT toolbox for Linux OS using appJar 
 
-I always wanted to have a small computer to test and troubleshoot different tasks and problems I face everyday at work sites.  
-I am a control system programmer and Audio / video integartor who usually deal with network issues and problem related to wire/wireless communication at clients site most of this problems can be discover and troubleshoot by a laptop computer,
+I always wanted to have a small computer to test and troubleshoot different tasks and problems I face every day at work sites.  
+I am a control system programmer and Audio / video integrator who usually deal with network issues and problem related to wire/wireless communication with clients site most of these problem can be discovered and troubleshoot by a laptop computer,
 but in my case I want something smaller specially designed for my applications, so here I will design my own tool and share
-documented pathway and programs that make up this project.  
+documented pathway and programs that make up this project. 
 
 ### Functions:
 1: HDMI and 3.5 Audio provider for testing A/V equipment  
